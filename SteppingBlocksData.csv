@@ -1,0 +1,186 @@
+gender,city,state,current_job_title,current_job_category,current_employer,current_employer_industry, current_salary ,current_tenure
+m,Dallas,Georgia,Analyst,Information Technology,iVision,Information Technology And Services,"$63,901.00 ",4
+u,Tucker,Georgia,Analyst,Information Technology,Avanade,Information Technology And Services,"$67,600.00 ",2
+u,Lilburn,Georgia,Analyst,Information Technology,EY,Accounting,"$58,618.00 ",3
+u,Atlanta,Georgia,Analyst,Information Technology,US Navy,Military,"$58,800.00 ",7
+u,Atlanta,Georgia,Analyst,Information Technology,Newell Brands,Consumer Goods,"$64,783.00 ",1
+m,Atlanta,Georgia,Analyst,Information Technology,Cox Communications,Telecommunications,"$60,352.00 ",3
+u,Duluth,Georgia,Analyst Sales,Sales,MDA,Information Technology And Services,"$50,235.00 ",4
+m,Norcross,Georgia,Analytics Engineer,Engineering,GE,Mechanical Or Industrial Engineering,,1
+u,Atlanta,Georgia,Applecare Advisor,Finance,Apple,Consumer Electronics,,5
+m,McDonough,Georgia,Associate,Customer Service,Infosys,Information Technology And Services,"$43,757.00 ",4
+m,Atlanta,Georgia,Associate,Customer Service,Revature,Information Technology And Services,"$45,767.00 ",3
+f,Atlanta,Georgia,Associate - AI/ML,Customer Service,Revature,Information Technology And Services,,2
+m,Atlanta,Georgia,Business Development Manager,Management,Ivbaze Tech Development,Computer Software,"$68,391.00 ",2
+m,Atlanta,Georgia,Business Development Representative,Business,KMS Technology Vietnam,Computer Software,"$45,735.00 ",1
+m,Atlanta,Georgia,Business Insight And Analytics Manager,Business,Georgia-Pacific LLC,Paper & Forest Products,"$84,708.00 ",7
+f,Atlanta,Georgia,Business Intelligence Analyst,Business,Porsche Financial Services,Financial Services,"$60,711.00 ",2
+f,Atlanta,Georgia,Business Intelligence Analyst,Business,Northside Hospital,Hospital & Health Care,"$62,096.00 ",2
+u,Scottdale,Georgia,Business Intelligence Developer,Information Technology,LogicLoops,Information Technology And Services,"$95,113.00 ",1
+f,Decatur,Georgia,Business Leadership Intern ,Management,GEICO,Insurance,"$15,000.00 ",3
+m,Atlanta,Georgia,Business Systems Analyst,Business,Web Industries,Outsourcing/offshoring,"$73,883.00 ",17
+f,Atlanta,Georgia,Client Service And Consulting Manager,Customer Service,athenahealth,Information Technology And Services,"$45,754.00 ",12
+m,Grayson,Georgia,Client Services Administrator,Customer Service,Streamline Health,Computer Software,"$27,938.00 ",5
+m,Atlanta,Georgia,Consultant,Business,Capgemini,Information Technology And Services,"$61,873.00 ",5
+m,Duluth,Georgia,Consultant,Business,Slalom,Management Consulting,"$71,717.00 ",4
+f,Fort Worth,Texas,Consultant,Business,Microsoft,Computer Software,"$60,323.00 ",5
+m,Atlanta,Georgia,Continuous Improvement Manager,Management,Inspire Brands,Restaurants,"$83,158.00 ",2
+u,Stone Mountain,Georgia,Customer Care Representative,Customer Service,CSM Bakery Solutions,Food Production,"$31,052.00 ",4
+u,Lawrenceville,Georgia,Customer Relations Representative,Customer Service,Cox Enterprises,Telecommunications,"$28,840.00 ",4
+m,Atlanta,Georgia,Customer Service Agent,Customer Service,Brandt Information Services,Information Technology And Services,"$30,236.00 ",13
+u,Atlanta,Georgia,Customer Service Assistant,Customer Service,Walgreens,Retail,"$29,144.00 ",2
+m,Conyers,Georgia,Customer Service Manager,Customer Service,Publix Super Markets,Retail,"$38,464.00 ",2
+u,Augusta,Georgia,Customer Service Representative,Customer Service,CDK Global,Computer Software,"$20,508.00 ",2
+m,Stockbridge,Georgia,Customer Service Representative,Customer Service,Cofely Mijoy,,"$29,706.00 ",
+u,Atlanta,Georgia,Customer Service Representative,Customer Service,Amazon,Internet,"$30,685.00 ",5
+f,Atlanta,Georgia,Customer Service Specialist,Customer Service,JOHN BEAN TECHNOLOGIES CORP,,"$35,916.00 ",2
+f,Atlanta,Georgia,Customer Support Manager,Customer Service,Mailchimp,Internet,"$53,322.00 ",3
+f,Atlanta,Georgia,Data Analyst,Information Technology,Capgemini,Information Technology And Services,"$54,481.00 ",1
+f,Jonesboro,Georgia,Data Analyst,Information Technology,City of Atlanta,Government Administration,"$47,801.00 ",3
+m,Charlotte,North Carolina,Data Analyst,Information Technology,Bank of America,Banking,"$65,627.00 ",2
+f,Atlanta,Georgia,Data Analyst,Information Technology,Cardlytics,Marketing And Advertising,"$52,001.00 ",3
+m,Atlanta,Georgia,Data Analyst,Information Technology,Force Marketing,Marketing And Advertising,"$54,481.00 ",4
+f,Atlanta,Georgia,Data Analyst,Information Technology,EY,Accounting,"$53,244.00 ",2
+u,Atlanta,Georgia,Data Analyst,Information Technology,U.S. Xpress Ventures,Transportation/trucking/railroad,"$52,001.00 ",1
+m,Atlanta,Georgia,Data Center Manager,Management,UPS,Logistics And Supply Chain,"$84,808.00 ",4
+m,Atlanta,Georgia,Data Management Manager,Management,Verizon,Information Technology And Services,"$53,267.00 ",4
+u,Lilburn,Georgia,Data Specialist,Information Technology,Cambridge Healthcare,Hospital & Health Care,"$56,852.00 ",5
+m,Atlanta,Georgia,Data Specialist,Information Technology,Trax Retail,Information Technology And Services,"$55,959.00 ",4
+u,Atlanta,Georgia,Data Specialist,Information Technology,LexisNexis,Information Technology And Services,"$55,959.00 ",3
+u,Atlanta,Georgia,Dev Ops Engineer,Engineering,NCR Corporation,Information Technology And Services,,2
+u,Atlanta,Georgia,Devops Engineer,Engineering,NCR Corporation,Information Technology And Services,"$71,886.00 ",3
+m,Annapolis,Maryland,Devops Engineer,Engineering,Northrop Grumman,Defense & Space,"$85,127.00 ",2
+f,Atlanta,Georgia,Devops Engineer,Engineering,Accenture,Information Technology And Services,"$68,201.00 ",1
+f,Atlanta,Georgia,Extension Specialist,Education,IBM,Information Technology And Services,,4
+m,Decatur,Georgia,Field Service Manager,Management,Leapfrog IT Services,Information Technology And Services,"$60,309.00 ",11
+m,,,Genius Admin,Other,Apple,Consumer Electronics,,8
+m,Atlanta,Georgia,Global Field Readiness Communications Lead,Management,SAP SuccessFactors,Computer Software,,5
+m,Atlanta,Georgia,Graphic Designer,Design,Self Employed Graphic Design,Education Management,"$42,593.00 ",5
+m,Atlanta,Georgia,Graphic Designer,Design,LVRN Studios,Entertainment,"$40,813.00 ",3
+u,Rex,Georgia,Help Desk Analyst,Customer Service,Kaiser Permanente,Hospital & Health Care,"$31,663.00 ",5
+f,Atlanta,Georgia,Help Desk Analyst,Customer Service,Intelliteach,Legal Services,"$34,464.00 ",2
+f,Atlanta,Georgia,Help Desk Technician,Information Technology,TransUnion,Information Technology And Services,"$38,292.00 ",4
+m,Atlanta,Georgia,Help Desk Technician,Information Technology,Insight Global,Staffing And Recruiting,"$43,955.00 ",3
+m,Atlanta,Georgia,Human Transport Specialist,Human Resources,,,,
+m,Atlanta,Georgia,Information Technology Analyst,Information Technology,MIRASCO,International Trade And Development,"$60,393.00 ",1
+f,Atlanta,Georgia,Information Technology Analyst,Information Technology,Bosch,Information Technology And Services,"$58,459.00 ",1
+u,,,Information Technology Analyst,Information Technology,NPower Canada,Professional Training & Coaching,"$51,959.00 ",1
+f,Atlanta,Georgia,Information Technology Analyst,Information Technology,CARROLL,Real Estate,"$68,407.00 ",1
+u,Atlanta,Georgia,Information Technology Support Specialist,Information Technology,"Virtucom, Inc.",Information Technology And Services,"$40,580.00 ",4
+m,Atlanta,Georgia,Information Technology Support Specialist,Information Technology,Miles Technologies,Information Technology And Services,"$38,501.00 ",2
+m,Atlanta,Georgia,Information Technology Technical Support Specialist,Information Technology,Apple,Consumer Electronics,"$55,572.00 ",5
+m,McDonough,Georgia,Information Technology Technical Support Specialist,Information Technology,Trextel,Telecommunications,"$55,621.00 ",3
+u,Atlanta,Georgia,Information Technology Technical Support Specialist,Information Technology,City of Atlanta,Government Administration,"$54,914.00 ",8
+m,Tucker,Georgia,Information Technology Technical Support Specialist,Information Technology,AIC,Staffing And Recruiting,"$57,894.00 ",6
+m,Lawrenceville,Georgia,Information Technology Technician,Information Technology,Steve Miller,Broadcast Media,"$80,038.00 ",16
+m,Atlanta,Georgia,Information Technology Technician,Information Technology,Apple,Consumer Electronics,"$57,325.00 ",7
+u,Atlanta,Georgia,Information Technology Technician,Information Technology,TransUnion,Information Technology And Services,"$53,689.00 ",4
+u,Atlanta,Georgia,Infrastructure Analyst - SAS Administrator ,Information Technology,State Farm ®,Insurance,,6
+m,Smyrna,Georgia,Install Technician,Construction,"Casteel Heating, Cooling, Plumbing & Electrical",Consumer Services,"$32,721.00 ",6
+m,Atlanta,Georgia,In-Store Floating Technician,Information Technology,Asurion,Information Technology And Services,,3
+m,Lawrenceville,Georgia,It Analyst,Information Technology,Arrow Exterminators,Consumer Services,"$50,288.00 ",3
+f,Atlanta,Georgia,It Analyst,Information Technology,Centers for Disease Control and Prevention,Government Administration,"$58,913.00 ",14
+u,Atlanta,Georgia,It Business Analyst,Business,NAPA AUTO PARTS,Automotive,"$60,936.00 ",2
+f,Atlanta,Georgia,It Business Analyst,Business,Georgia-Pacific LLC,Paper & Forest Products,"$71,449.00 ",7
+m,Atlanta,Georgia,It Business Analyst,Business,Deloitte,Management Consulting,"$60,039.00 ",2
+m,Atlanta,Georgia,It Manager,Management,SweetWater Brewing Company,Food & Beverages,"$78,934.00 ",4
+m,Hampton,Georgia,It Manager,Management,Gypsum Management and Supply,Building Materials,"$70,072.00 ",3
+u,Atlanta,Georgia,It Project Manager,Management,Insight Global,Staffing And Recruiting,"$70,973.00 ",2
+u,Atlanta,Georgia,It Senior Analyst,Information Technology,UPS Supply Chain Solutions,Logistics And Supply Chain,"$73,435.00 ",8
+f,Atlanta,Georgia,It Senior Analyst,Information Technology,Macy's,Retail,"$78,143.00 ",4
+u,Atlanta,Georgia,It Technical Analyst,Information Technology,SAI Global | BWise,Computer Software,"$47,880.00 ",2
+u,Boston,Massachusetts,Linux Systems Administrator,Information Technology,Compsolution Inc,Information Technology And Services,"$83,933.00 ",10
+f,Atlanta,Georgia,Local Lab Data Analyst,Research,IQVIA Italia,,,15
+u,Atlanta,Georgia,Logistics Analyst,Logistics,HD Supply,Wholesale,"$48,534.00 ",2
+m,Atlanta,Georgia,Logistics Manager,Logistics,General Mills (Resource-MFG),,"$55,312.00 ",
+m,Lawrenceville,Georgia,Manager of Innovation,Management,CORL Technologies,Information Technology And Services,,3
+f,Alpharetta,Georgia,Network Operations Center Technician,Information Technology,InComm,Financial Services,"$37,303.00 ",5
+m,Decatur,Georgia,Operation Supervisor,Business,Atlas Logistics Services,Logistics And Supply Chain,"$49,437.00 ",4
+u,Stone Mountain,Georgia,Operations Engineer,Engineering,WarnerMedia,Entertainment,"$62,528.00 ",1
+m,Duluth,Georgia,Operations Engineer,Engineering,Macy's,Retail,"$64,044.00 ",7
+u,Destin,Florida,Operations Manager,Management,Melanin.Tech,Internet,"$58,860.00 ",4
+f,Ellenwood,Georgia,Operations Supervisor,Management,Kaiser Permanente,Hospital & Health Care,"$70,424.00 ",6
+m,Atlanta,Georgia,Operations Supervisor,Management,K & G CUSTOMS SERVICE INC,,"$61,082.00 ",7
+f,Atlanta,Georgia,Operations Supervisor,Management,"Delta Global Staffing, a Wholly Owned Subsidiary of Delta Air Lines",,"$78,798.00 ",
+f,Lilburn,Georgia,Php Website Developer,Information Technology,Hayaà Beauty,,"$83,944.00 ",
+m,Atlanta,Georgia,Policy Analyst,Research,Fulton County Government,Government Administration,"$39,925.00 ",3
+f,Atlanta,Georgia,President,Executive,Girls++,,"$106,376.00 ",
+f,Atlanta,Georgia,Product Manager,Management,wineOnion,,"$89,244.00 ",
+u,Smyrna,Georgia,Product Support Engineer,Engineering,Paya,Financial Services,"$53,476.00 ",2
+u,Atlanta,Georgia,Product Support Specialist,Customer Service,Landis+Gyr,Electrical/electronic Manufacturing,"$43,245.00 ",2
+u,City of Raleigh,North Carolina,Professional Services Developer,Customer Service,Maverick Solutions,Public Relations And Communications,,3
+m,Atlanta,Georgia,Professional Services Specialist,Customer Service,Fiserv,Information Technology And Services,,3
+f,Atlanta,Georgia,Project Coordinator,Management,HP,Information Technology And Services,"$60,913.00 ",3
+m,Atlanta,Georgia,Project Coordinator,Management,Trades Masters powered by RigUp,Construction,"$49,963.00 ",1
+m,Washington,District of Columbia,Project Coordinator,Management,ADP,Human Resources,"$81,190.00 ",8
+m,Atlanta,Georgia,Project Leader,Management,Fulton County Government,Government Administration,"$62,240.00 ",1
+m,Atlanta,Georgia,Project Manager,Management,"Apogee, Inc.",Information Technology And Services,"$68,308.00 ",6
+u,Atlanta,Georgia,Project Manager,Management,Total Imaging Inc,,"$65,620.00 ",
+u,Stone Mountain,Georgia,Property Manager,Real Estate,,,"$45,136.00 ",
+f,Fort Collins,Colorado,Proposal Writer,Media,Intrado,Information Technology And Services,"$45,771.00 ",1
+m,Morrow,Georgia,Quality Assurance,Quality Control,Valuant,Financial Services,"$27,563.00 ",3
+f,Atlanta,Georgia,Quality Assurance Analyst,Quality Control,TalentQuest,Computer Software,"$36,673.00 ",7
+u,Phoenix,Arizona,Quality Assurance Analyst,Quality Control,Uhaul,Transportation/trucking/railroad,"$37,500.00 ",2
+m,Atlanta,Georgia,Quality Assurance Analyst,Quality Control,"Nead Werx, Inc.",Computer Software,"$35,949.00 ",1
+m,Atlanta,Georgia,Quality Assurance Analyst,Quality Control,UPS Supply Chain Solutions,Logistics And Supply Chain,"$36,673.00 ",6
+u,Phoenix,Arizona,Quality Assurance Analyst,Quality Control,Uhaul,Transportation/trucking/railroad,"$37,500.00 ",2
+u,Atlanta,Georgia,Quality Assurance Engineer,Engineering,#NAME?,Internet,"$54,396.00 ",2
+m,San Francisco,California,Reporting Analyst,Research,American Tower,Telecommunications,"$75,396.00 ",11
+u,Atlanta,Georgia,Research Fellow,Science,Rewriting the Code,Education Management,"$52,704.00 ",4
+u,Marietta,Georgia,SAS Administrator,Management,State Farm ®,Insurance,,10
+u,Decatur,Georgia,Senior Consultant,Business,Experient Group,Management Consulting,"$84,401.00 ",3
+m,Stone Mountain,Georgia,Senior Electronics Technician,Engineering,Hartsfield-Jackson Atlanta International Airport,Airlines/aviation,"$39,899.00 ",4
+m,Atlanta,Georgia,Senior Partner Success Manager,Management,Sage,Computer Software,,15
+m,Atlanta,Georgia,Sharepoint Developer,Information Technology,ITG - Incentive Technology Group,Information Technology And Services,"$73,847.00 ",2
+u,Duluth,Georgia,Sharepoint Developer,Information Technology,KPMG,Accounting,"$80,907.00 ",2
+m,Snellville,Georgia,Software Quality Assurance Specialist,Information Technology,NCR Corporation,Information Technology And Services,"$60,966.00 ",31
+u,Atlanta,Georgia,Software Quality Engineer,Information Technology,Axion BioSystems,Biotechnology,"$71,669.00 ",3
+u,Tucker,Georgia,Software Technician,Information Technology,Subway Restaurant,Hospitality,"$41,502.00 ",11
+m,Atlanta,Georgia,Splunk Consultant,Business,TekStream Solutions,Information Technology And Services,,2
+m,Seattle,Washington,Staff Analyst,Information Technology,Capgemini,Information Technology And Services,"$78,010.00 ",2
+m,Atlanta,Georgia,Staff Assistant,Admin Clerical,enAble of Georgia,Nonprofit Organization Management,"$39,912.00 ",5
+m,Duluth,Georgia,Staff Consultant - CSD,Business,Capgemini,Information Technology And Services,,2
+f,Blackshear,Georgia,Supervisor,Maintenance,UPS,Logistics And Supply Chain,"$42,159.00 ",3
+u,Riverdale,Georgia,Supervisor,Maintenance,Chick-fil-A Restaurants,,"$45,100.00 ",10
+u,Ellenwood,Georgia,Supervisor Of Operations,Business,United States Postal Service,Government Administration,"$64,770.00 ",6
+m,Alpharetta,Georgia,Support Analyst,Information Technology,Manhattan Associates,Computer Software,"$44,058.00 ",2
+m,Atlanta,Georgia,Support Analyst,Information Technology,Intercontinental Exchange,Financial Services,"$44,456.00 ",2
+m,Atlanta,Georgia,Support Analyst,Information Technology,DXC Technology,Information Technology And Services,"$45,844.00 ",4
+u,Atlanta,Georgia,Support Technician,Information Technology,PlayOn! Sports,Media Production,"$34,593.00 ",3
+u,Atlanta,Georgia,System Analyst,Information Technology,Distribution Cooperative,Hospital & Health Care,"$62,421.00 ",4
+m,Atlanta,Georgia,Systems Support Specialist,Information Technology,Georgia Army National Guard,Military,"$52,236.00 ",6
+u,Atlanta,Georgia,Technical Advisor,Finance,Apple,Consumer Electronics,"$63,644.00 ",8
+u,Dundee,Florida,Technical Advisor,Finance,Conduent,Information Technology And Services,"$54,624.00 ",15
+m,Stockbridge,Georgia,Technical Advisor,Finance,Ed's Public Safety,Sporting Goods,"$53,439.00 ",2
+m,Roswell,Georgia,Technical Analyst,Information Technology,CGS (Computer Generated Solutions),Information Technology And Services,"$60,700.00 ",4
+f,Atlanta,Georgia,Technical Analyst,Information Technology,AMB Sports + Entertainment,Sports,"$63,755.00 ",4
+m,Phoenix,Arizona,Technical Analyst,Information Technology,Blue Cross Blue Shield of Arizona,Insurance,"$60,201.00 ",1
+u,Duluth,Georgia,Technical Analyst,Information Technology,Accenture,Information Technology And Services,"$59,816.00 ",5
+m,McDonough,Georgia,Technical Analyst,Information Technology,The Coca-Cola Company,Food & Beverages,"$63,791.00 ",3
+m,Atlanta,Georgia,Technical Consultant,Information Technology,FINEOS,Computer Software,"$76,222.00 ",2
+m,Lawrenceville,Georgia,Technical Consultant,Information Technology,"Health Insurance Advisors, LLC",,"$77,394.00 ",
+u,Atlanta,Georgia,Technical Consultant,Information Technology,Apple,Consumer Electronics,"$80,811.00 ",9
+m,Seattle,Washington,Technical Consultant,Information Technology,Accelalpha,Information Technology And Services,"$132,665.00 ",3
+u,Atlanta,Georgia,Technical Product Owner,Business,NCR Corporation,Information Technology And Services,,1
+f,Atlanta,Georgia,Technical Specialist,Information Technology,Apple,Consumer Electronics,"$66,844.00 ",2
+m,Atlanta,Georgia,Technical Specialist,Information Technology,Perficient,Information Technology And Services,"$66,844.00 ",3
+m,Lawrenceville,Georgia,Technical Support Manager,Management,Gearco®,Hospitality,"$66,965.00 ",2
+m,Atlanta,Georgia,Technician,Information Technology,MTI - Mobile Technologies Inc.,Consumer Electronics,"$40,101.00 ",2
+m,Alpharetta,Georgia,Technology Associate (Contract),Customer Service,Various Contract Projects,,,
+m,Atlanta,Georgia,Technology Consultant,Information Technology,SAP,Computer Software,"$73,858.00 ",5
+u,Atlanta,Georgia,Test Analyst,Information Technology,SITA,Information Technology And Services,"$58,344.00 ",5
+m,Atlanta,Georgia,Test Automation Engineer,Engineering,Pindrop,Computer & Network Security,"$84,870.00 ",3
+m,Atlanta,Georgia,Test Engineer,Engineering,Foxconn,Information Technology And Services,"$58,198.00 ",3
+m,Atlanta,Georgia,Test Specialist,Business,EchoStar Satellite Services L.L.C.,Telecommunications,"$70,507.00 ",14
+m,Atlanta,Georgia,Wandering Wifi Technical Support,Information Technology,VMware AirWatch,,,
+m,Atlanta,Georgia,Warehouse Supervisor,Logistics,Star Stainless Screw Co,Wholesale,"$43,986.00 ",3
+f,Roswell,Georgia,Web Designer,Information Technology,Multiple Companies,Information Technology And Services,"$50,548.00 ",4
+m,Brooklyn,New York,Web Developer,Information Technology,Quio,Hospital & Health Care,"$72,543.00 ",3
+m,Atlanta,Georgia,Web Developer,Information Technology,Talent Solutions TAPFIN,Human Resources,"$65,460.00 ",3
+m,Atlanta,Georgia,Web Developer,Information Technology,UPS,Logistics And Supply Chain,"$61,763.00 ",5
+m,Atlanta,Georgia,Web Developer,Information Technology,"Khoshnood Law Firm, PC",Law Practice,"$59,108.00 ",4
+m,Atlanta,Georgia,Web Developer,Information Technology,ChildCare Education Institute,E-learning,"$63,493.00 ",3
+m,Atlanta,Georgia,Web Developer,Information Technology,ATLAS HOME SERVICES LLC,Management Consulting,"$55,521.00 ",1
+u,Atlanta,Georgia,Web Developer,Information Technology,Allinial Global,Nonprofit Organization Management,"$65,460.00 ",9
+u,Atlanta,Georgia,Web Developer,Information Technology,Unique Wholesale ATL,,"$61,763.00 ",
+,,,job somewhat related to CS,,,,,
